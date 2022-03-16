@@ -9,7 +9,7 @@ Second camera geometry w/ SST-1M window
 - UPDATED NOMINAL LST 09/2020
 - SiPM
     - 7987 pixels
-    - Dynamic range 1 - 250 photons
+    - Dynamic range 1 - 500 photons
     - Hamamatsu LCT5 4.4V
     - Pxt 8% (SPE)
     - 5ns FWHM
