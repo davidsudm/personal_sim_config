@@ -1,5 +1,5 @@
 # CONFIGURATION NAME
-Prototype sensor LCT5-NUV w/ nominal LST window
+Boosted Prototype sensor LCT5-NUV w/ nominal LST window
 # ARRAY LAYOUT
 - 4 LST SiPM
 - 1 MST
@@ -10,8 +10,8 @@ Prototype sensor LCT5-NUV w/ nominal LST window
 - SiPM
     - 7987 pixels
     - Dynamic range 1 - 250 photons
-    - Hamamatsu LCT5-NUV 3.0V
-    - Pxt 5% (SPE)
+    - Hamamatsu LCT5-NUV 6.0V
+    - Pxt 15% (SPE)
     - 3ns FWHM
     - Nominal LST window
 # MST CONFIGURATION
