@@ -13,7 +13,7 @@ Prototype sensor LCT5-NUV w/ nominal LST window
     - Hamamatsu LCT5-NUV 3.0V
     - Pxt 5% (SPE)
     - 3ns FWHM
-    - Nominal LST window
+    - SST-1M window
 # MST CONFIGURATION
 #TRIGGER CONFIGURATION
 - AnalogSum49 : 7 modules, 7 pixel per module
